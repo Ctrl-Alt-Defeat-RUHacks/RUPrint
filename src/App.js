@@ -1,6 +1,7 @@
 import './App.css';
 import MainPage from './mainPage.js';
 import CoursePage from './coursePage.js';
+import Navbar from './navbar.js';
 
 
 function App() {
@@ -8,10 +9,10 @@ function App() {
     <div className="App">
         <div class="container">
           <div class="row">
-            <h2 id="title"> <span style={{color: "#004c9b"}}>RU</span><span style={{color: "#ffdc00"}}>Print</span></h2>
+            <Navbar />
           </div>
           <div class="row">
-            <CoursePage />
+            <MainPage />
           </div>
         </div>
     </div>
