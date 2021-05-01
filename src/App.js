@@ -1,6 +1,5 @@
 import './App.css';
 import MainPage from './mainPage.js';
-import CoursePage from './coursePage.js';
 import Navbar from './navbar.js';
 
 
