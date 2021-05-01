@@ -6,6 +6,9 @@ cache:
   directories:
     - build
     - .cache
+branches:
+  only: 
+    - main
 script:
   - npm run build # Generate static HTML files
 
