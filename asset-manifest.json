@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RUPrint/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/RUPrint/static/js/main.52e3879d.chunk.js",
-    "main.js.map": "/RUPrint/static/js/main.52e3879d.chunk.js.map",
+    "main.js": "/RUPrint/static/js/main.ad7a5ba9.chunk.js",
+    "main.js.map": "/RUPrint/static/js/main.ad7a5ba9.chunk.js.map",
     "runtime-main.js": "/RUPrint/static/js/runtime-main.7f432ef5.js",
     "runtime-main.js.map": "/RUPrint/static/js/runtime-main.7f432ef5.js.map",
     "static/js/2.63da7984.chunk.js": "/RUPrint/static/js/2.63da7984.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7f432ef5.js",
     "static/js/2.63da7984.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.52e3879d.chunk.js"
+    "static/js/main.ad7a5ba9.chunk.js"
   ]
 }
