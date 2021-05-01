@@ -6,9 +6,10 @@ import Navbar from './navbar.js';
 function App() {
   return (
     <div className="App">
+        <Navbar />
         <div class="container">
           <div class="row">
-            <Navbar />
+            
           </div>
           <div class="row">
             <MainPage />
