@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RUPrint/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/RUPrint/static/js/main.52e3879d.chunk.js",
+    "main.js.map": "/RUPrint/static/js/main.52e3879d.chunk.js.map",
+    "runtime-main.js": "/RUPrint/static/js/runtime-main.7f432ef5.js",
+    "runtime-main.js.map": "/RUPrint/static/js/runtime-main.7f432ef5.js.map",
+    "static/js/2.63da7984.chunk.js": "/RUPrint/static/js/2.63da7984.chunk.js",
+    "static/js/2.63da7984.chunk.js.map": "/RUPrint/static/js/2.63da7984.chunk.js.map",
+    "static/js/3.079af3c7.chunk.js": "/RUPrint/static/js/3.079af3c7.chunk.js",
+    "static/js/3.079af3c7.chunk.js.map": "/RUPrint/static/js/3.079af3c7.chunk.js.map",
+    "index.html": "/RUPrint/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/RUPrint/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.63da7984.chunk.js.LICENSE.txt": "/RUPrint/static/js/2.63da7984.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f432ef5.js",
+    "static/js/2.63da7984.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.52e3879d.chunk.js"
+  ]
+}
