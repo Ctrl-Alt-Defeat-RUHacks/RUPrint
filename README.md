@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Viewing Developer Version
+
+1. Git clone this repository to your local machine
+2. Execute command in terminal: npm install
+3. Execute command in terminal: npm start
+4. The site can now be viewed on localhost port 3000 (default)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
