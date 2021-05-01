@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>RUPrint</p>
+        <p>RUPrint has auto deployed</p>
       </header>
     </div>
   );
