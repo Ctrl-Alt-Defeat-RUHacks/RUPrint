@@ -8,7 +8,7 @@ function App() {
     <div className="App">
         <div class="container">
           <div class="row">
-            <h2>RUPrint</h2>
+            <h2 id="title"> <span style={{color: "#004c9b"}}>RU</span><span style={{color: "#ffdc00"}}>Print</span></h2>
           </div>
           <div class="row">
             <CoursePage />

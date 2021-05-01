@@ -37,3 +37,17 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url(MontserratSubrayada-Bold.ttf);
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(MontserratSubrayada-Regular.ttf);
+}
+
+h2{
+  font-family: Montserrat;
+}
