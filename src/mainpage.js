@@ -4,13 +4,19 @@ class mainPage extends React.Component {
     render() {
       return (
         <div id="mainPage">
-            <p>Content goes here.
-            </p>
-            <table>
-                <tr>
-                    <td>First content here</td>
-                </tr>
-            </table>
+            <div class="container">
+                <div class="row">
+                    <div class="col-4">
+                    One of three columns
+                    </div>
+                    <div class="col-4">
+                    One of three columns
+                    </div>
+                    <div class="col-4">
+                    3 of three columns
+                    </div>
+                </div>
+            </div>
         </div>
       );
     }
