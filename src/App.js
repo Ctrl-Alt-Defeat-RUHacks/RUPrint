@@ -1,11 +1,20 @@
 import './App.css';
+import MainPage from './mainPage.js';
+import CoursePage from './coursePage.js';
+import Navbar from './navbar.js';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>RUPrint has auto deployed</p>
-      </header>
+        <div class="container">
+          <div class="row">
+            <Navbar />
+          </div>
+          <div class="row">
+            <MainPage />
+          </div>
+        </div>
     </div>
   );
 }
