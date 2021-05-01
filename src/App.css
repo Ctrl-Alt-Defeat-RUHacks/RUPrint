@@ -55,3 +55,19 @@ h2{
 .ruNav{
   width: 100%;
 }
+
+h6{
+  display: inline;
+}
+
+form{
+  display:inline;
+}
+
+.selector{
+  width: 100%;
+}
+
+p{
+  display: inline;
+}
