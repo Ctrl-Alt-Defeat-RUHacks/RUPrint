@@ -46,7 +46,7 @@ class mainPage extends React.Component {
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-4">
-                        <h6>Program </h6>
+                        <h6>Program: </h6>
                         <form>
                         <select id="programs" name="programs">
                             <option value="volvo">Computer Science</option>
@@ -57,14 +57,14 @@ class mainPage extends React.Component {
                         </form>
                     </div>
                     <div class="col-4">
-                        <h6> Year Range </h6>
+                        <h6> Year Range: </h6>
                             <p>Start Month: </p>
                             <input id="startMonth" type="month"></input> 
                             <p> </p>
-                            <button onClick={()=>this.changeStartYear(document.getElementById("startMonth").value)}>Update</button>
+                            <button class="customButton" onClick={()=>this.changeStartYear(document.getElementById("startMonth").value)}>Update</button>
                     </div>
                     <div class="col-4">
-                        <h6>Co-op </h6>
+                        <h6>Co-op: </h6>
                         <form>
                             <p> In Co-op </p>
                             <input type="checkbox" onClick={()=>this.changeCoop(!this.state.coop)}></input>
