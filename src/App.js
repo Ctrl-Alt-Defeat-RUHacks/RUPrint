@@ -4,9 +4,6 @@ import CoursePage from './coursePage.js'
 import { Component } from 'react';
 import actLogo from './actLogo.png';
 
-var page = 1;
-
-
 class App extends Component{
 
   constructor(){
@@ -31,23 +28,23 @@ class App extends Component{
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href="www.google.com"><h2 id="title"> <span style={{color: "#004c9b"}}>RU</span><span style={{color: "#ffdc00"}}>Print</span></h2></a>
+                <a class="navbar-brand"><h2 id="title"> <span style={{color: "#004c9b"}}>RU</span><span style={{color: "#ffdc00"}}>Print</span></h2></a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                    <a class="nav-link active"  onClick={()=>this.changePage(1)} aria-current="page" href="#">Home</a>
+                    <a class="nav-link active"  onClick={()=>this.changePage(1)} aria-current="page">Home</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" onClick={()=>this.changePage(2)} href="#">Courses</a>
+                    <a class="nav-link" onClick={()=>this.changePage(2)}>Courses</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link"  onClick={()=>this.changePage(3)}href="#">Help</a>
+                    <a class="nav-link"  onClick={()=>this.changePage(3)}>Help</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" >Logout</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link disabled" href="www.google.com" tabindex="-1" aria-disabled="true"><div>Firtname Lastname <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></a>
+                    <a class="nav-link disabled" tabindex="-1" aria-disabled="true"><div>Firtname Lastname <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></a>
                     </li>
                 </ul>
                 </div>
