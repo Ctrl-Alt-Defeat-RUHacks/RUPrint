@@ -41,10 +41,10 @@ class App extends Component{
                     <button class="nav-link headerButton"  onClick={()=>this.changePage(3)}>Help</button>
                     </li>
                     <li class="nav-item">
-                    <button class="nav-link headerButton" >Logout</button>
+                    <button class="nav-link headerButton" >Login</button>
                     </li>
                     <li class="nav-item">
-                    <button class="nav-link disabled headerButton" tabindex="-1" aria-disabled="true"><div>Firtname Lastname <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></button>
+                    <button class="nav-link disabled headerButton" tabindex="-1" aria-disabled="true"><div>Not Signed In <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></button>
                     </li>
                 </ul>
                 </div>
