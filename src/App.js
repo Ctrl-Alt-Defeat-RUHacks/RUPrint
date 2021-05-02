@@ -135,7 +135,6 @@ class App extends Component{
     firebase.auth().signInWithPopup(provider)
     .then((result) => {
       /** @type {firebase.auth.OAuthCredential} */
-      var credential = result.credential;
   
       // This gives you a Google Access Token. You can use it to access the Google API.
       // The signed-in user info.
@@ -143,9 +142,6 @@ class App extends Component{
       console.log(user);
       this.changeUsername(user.displayName);
       this.changePage(1);
-      // ...
-    }).catch((error) => {
-      // Handle Errors here.
       // ...
     });
   }
