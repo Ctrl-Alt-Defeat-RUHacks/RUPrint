@@ -107,5 +107,14 @@ p{
   display: table-cell;
   text-align: middle;
   width: 16.66666667vw;
-  background-color: #61dafb;
+  background-color: #0d6efd;
+  color: white;
+}
+
+.loginPage{
+  height: 80vh;
+  vertical-align: middle;
+  display: table-cell;
+  text-align: middle;
+  width: 100vw
 }

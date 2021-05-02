@@ -181,7 +181,7 @@ class App extends Component{
           {this.state.page===1 && <MainPage changePage2={this.changePage2} courses={this.state.courses}/>}
           {this.state.page===2 && <CoursePage tableA={tableA} tableB={tableB} tableI={tableI} tableO={tableO} lastBox={this.state.lastBox} changePage2={this.changePage2}/>}
           {this.state.page===3 && <HelpPage />}   
-          {this.state.page===4 && <div><button onClick={()=>this.signin()}>Sign In</button></div>}       
+          {this.state.page===4 && <div class="loginPage"><h4>Login Using Google Sign In <br></br><br></br></h4><button onClick={()=>this.signin()}>Sign In</button></div>}       
     </div>
   );
   }
