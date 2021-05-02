@@ -100,3 +100,12 @@ p{
   font-weight: bold;
   text-align: center;
 }
+
+.addCourse{
+  height: 100px;
+  vertical-align: middle;
+  display: table-cell;
+  text-align: middle;
+  width: 16.66666667vw;
+  background-color: #61dafb;
+}

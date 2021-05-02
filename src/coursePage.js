@@ -24,6 +24,8 @@ class TableAComponent extends React.Component{
             <h6>Antirequisite</h6> <p>{tableAElement.an_value}</p><br></br>
             <h6>Custom Requisites</h6> <p>{tableAElement.cus_value}</p><br></br>
             <a href={tableAElement.url}><p>More Info</p></a>
+            <br></br>
+            {this.props.lastBox=== 70? "" : <button onClick={()=> this.props.changePage2(1,this.props.lastBox,tableAElement.name,null)}>Add</button>}
             
 
           </div>
@@ -51,19 +53,19 @@ class coursePage extends React.Component {
           <div class="container">
             <h3>Table A - Lower Level Liberal Studies</h3>
             <div class="accordion" id="accordionExample">
-              <TableAComponent tableA={this.props.tableA} />
+              <TableAComponent changePage2={this.props.changePage2} lastBox ={this.props.lastBox} tableA={this.props.tableA} />
             </div>
             <h3>Table B - Upper Level Liberal Studies</h3>
             <div class="accordion" id="accordionExample">
-              <TableAComponent tableA={this.props.tableB} />
+              <TableAComponent  changePage2={this.props.changePage2} lastBox ={this.props.lastBox} tableA={this.props.tableB} />
             </div>
             <h3>Professional-Related Table (Computer Science)</h3>
             <div class="accordion" id="accordionExample">
-              <TableAComponent tableA={this.props.tableI} />
+              <TableAComponent changePage2={this.props.changePage2} lastBox ={this.props.lastBox} tableA={this.props.tableI} />
             </div>
             <h3>Open Elective Table</h3>
             <div class="accordion" id="accordionExample">
-              <TableAComponent tableA={this.props.tableO} />
+              <TableAComponent changePage2={this.props.changePage2} lastBox ={this.props.lastBox} tableA={this.props.tableO} />
             </div>
           </div>
         </div>

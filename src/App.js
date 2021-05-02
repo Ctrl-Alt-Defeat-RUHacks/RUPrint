@@ -89,13 +89,33 @@ class App extends Component{
     super()
     this.state={
       page: 1,
+      courses: Array(71).fill(null),
+      lastBox: null
     }
+
+    this.changePage2= this.changePage2.bind(this)
   }
 
   changePage(newPage){
     this.setState({
       page:newPage
     })
+  }
+  changePage2(newPage, courseNum, course, newlastBox){
+    if(courseNum != null){
+      var courses2 = this.state.courses;
+      courses2[courseNum] = course;
+      this.setState({
+        courses: courses2
+      })
+    }
+    this.setState({
+      page:newPage,
+    })
+    this.setState({
+        lastBox: newlastBox
+    })
+    
   }
 
   render(){
@@ -114,7 +134,7 @@ class App extends Component{
                     <button class="nav-link active headerButton"  onClick={()=>this.changePage(1)} aria-current="page">Home</button>
                     </li>
                     <li class="nav-item">
-                    <button class="nav-link headerButton" onClick={()=>this.changePage(2)}>Courses</button>
+                    <button class="nav-link headerButton" onClick={()=>this.changePage2(2,null,null,70)}>Courses</button>
                     </li>
                     <li class="nav-item">
                     <button class="nav-link headerButton"  onClick={()=>this.changePage(3)}>Help</button>
@@ -130,8 +150,8 @@ class App extends Component{
             </div>
             </nav>
         </div>
-          {this.state.page===1 && <MainPage />}
-          {this.state.page===2 && <CoursePage tableA={tableA} tableB={tableB} tableI={tableI} tableO={tableO}/>}
+          {this.state.page===1 && <MainPage changePage2={this.changePage2} courses={this.state.courses}/>}
+          {this.state.page===2 && <CoursePage tableA={tableA} tableB={tableB} tableI={tableI} tableO={tableO} lastBox={this.state.lastBox} changePage2={this.changePage2}/>}
           {this.state.page===3 && <p>help here</p>}
           
     </div>
