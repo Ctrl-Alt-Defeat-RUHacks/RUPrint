@@ -593,9 +593,9 @@ class mainPage extends React.Component {
                 </div>
                 }
                 <div class="row">
-                    <h6>Required Credits 15/30</h6>
+                    <h6>Required Credits 20/56</h6>
                     <div class="progress">
-                        <div class="progress-bar" role="progressbar" style={{width: '50%'}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar" role="progressbar" style={{width: '36%'}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>

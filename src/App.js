@@ -3,10 +3,12 @@ import MainPage from './mainPage.js';
 import CoursePage from './coursePage.js'
 import { Component } from 'react';
 import actLogo from './actLogo.png';
+import HelpPage from './help.js';
 
 import firebase from "firebase/app";
 import "firebase/analytics";
 import "firebase/firestore";
+import "firebase/auth"
 
 var firebaseConfig = {
   apiKey: "AIzaSyDpCuJ6c_e96MPIPQtub_BQ1moansQTqhk",
@@ -20,6 +22,10 @@ var firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
+
+var provider = new firebase.auth.GoogleAuthProvider();
+
+
 
 var db = firebase.firestore();
 var tableA= [];
@@ -90,7 +96,8 @@ class App extends Component{
     this.state={
       page: 1,
       courses: Array(71).fill(null),
-      lastBox: null
+      lastBox: null,
+      username: null
     }
 
     this.changePage2= this.changePage2.bind(this)
@@ -118,6 +125,38 @@ class App extends Component{
     
   }
 
+  changeUsername(newUserName){
+    this.setState({
+      username: newUserName
+  })
+  }
+
+  signin(){
+    firebase.auth().signInWithPopup(provider)
+    .then((result) => {
+      /** @type {firebase.auth.OAuthCredential} */
+      var credential = result.credential;
+  
+      // This gives you a Google Access Token. You can use it to access the Google API.
+      var token = credential.accessToken;
+      // The signed-in user info.
+      var user = result.user;
+      console.log(user);
+      this.changeUsername(user.displayName);
+      this.changePage(1);
+      // ...
+    }).catch((error) => {
+      // Handle Errors here.
+      var errorCode = error.code;
+      var errorMessage = error.message;
+      // The email of the user's account used.
+      var email = error.email;
+      // The firebase.auth.AuthCredential type that was used.
+      var credential = error.credential;
+      // ...
+    });
+  }
+
   render(){
   return (
     <div className="App">
@@ -140,10 +179,10 @@ class App extends Component{
                     <button class="nav-link headerButton"  onClick={()=>this.changePage(3)}>Help</button>
                     </li>
                     <li class="nav-item">
-                    <button class="nav-link headerButton" >Login</button>
+                    <button class="nav-link headerButton" onClick={()=>this.changePage(4)}>{this.state.username === null?"Login":"Logout"}</button>
                     </li>
                     <li class="nav-item">
-                    <button class="nav-link disabled headerButton" tabindex="-1" aria-disabled="true"><div>Not Signed In <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></button>
+                    <button class="nav-link disabled headerButton" tabindex="-1" aria-disabled="true"><div>{this.state.username === null?"Not Signed In": this.state.username} <img src={actLogo} style={{height: '30px'}}alt="acct"/></div></button>
                     </li>
                 </ul>
                 </div>
@@ -152,8 +191,8 @@ class App extends Component{
         </div>
           {this.state.page===1 && <MainPage changePage2={this.changePage2} courses={this.state.courses}/>}
           {this.state.page===2 && <CoursePage tableA={tableA} tableB={tableB} tableI={tableI} tableO={tableO} lastBox={this.state.lastBox} changePage2={this.changePage2}/>}
-          {this.state.page===3 && <p>help here</p>}
-          
+          {this.state.page===3 && <HelpPage />}   
+          {this.state.page===4 && <div><button onClick={()=>this.signin()}>Sign In</button></div>}       
     </div>
   );
   }
