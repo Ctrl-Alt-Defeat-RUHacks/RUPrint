@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/RUPrint/static/css/main.d7e6d931.chunk.css",
-    "main.js": "/RUPrint/static/js/main.ca203ec5.chunk.js",
-    "main.js.map": "/RUPrint/static/js/main.ca203ec5.chunk.js.map",
+    "main.css": "/RUPrint/static/css/main.a1aac291.chunk.css",
+    "main.js": "/RUPrint/static/js/main.8386634f.chunk.js",
+    "main.js.map": "/RUPrint/static/js/main.8386634f.chunk.js.map",
     "runtime-main.js": "/RUPrint/static/js/runtime-main.4fdd32fa.js",
     "runtime-main.js.map": "/RUPrint/static/js/runtime-main.4fdd32fa.js.map",
     "static/js/2.bc4da19b.chunk.js": "/RUPrint/static/js/2.bc4da19b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.004d7837.chunk.js": "/RUPrint/static/js/3.004d7837.chunk.js",
     "static/js/3.004d7837.chunk.js.map": "/RUPrint/static/js/3.004d7837.chunk.js.map",
     "index.html": "/RUPrint/index.html",
-    "static/css/main.d7e6d931.chunk.css.map": "/RUPrint/static/css/main.d7e6d931.chunk.css.map",
+    "static/css/main.a1aac291.chunk.css.map": "/RUPrint/static/css/main.a1aac291.chunk.css.map",
     "static/js/2.bc4da19b.chunk.js.LICENSE.txt": "/RUPrint/static/js/2.bc4da19b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/RUPrint/static/media/MontserratSubrayada-Regular.16f1cba4.ttf",
     "static/media/actLogo.fb0fd7ff.png": "/RUPrint/static/media/actLogo.fb0fd7ff.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4fdd32fa.js",
     "static/js/2.bc4da19b.chunk.js",
-    "static/css/main.d7e6d931.chunk.css",
-    "static/js/main.ca203ec5.chunk.js"
+    "static/css/main.a1aac291.chunk.css",
+    "static/js/main.8386634f.chunk.js"
   ]
 }
