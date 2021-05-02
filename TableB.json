@@ -1,0 +1,1801 @@
+{"__collections__":{
+ "Courses": [
+  {
+   "name": "ANT 306",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/anthropology/ANT/306.html",
+   "Course_Title": "Introduction to Linguistic Anthropology",
+   "pre_value": "ANT 100 or ANT 200 or ACS 106",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ARB 300",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/arabic/ARB/300.html",
+   "Course_Title": "Principles in Arabic Writing",
+   "pre_value": "Placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ARB 301",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/arabic/ARB/301.html",
+   "Course_Title": "Intermediate Arabic I",
+   "pre_value": "ARB 201 or placement test required (www.ryerson.ca/llc",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ARB 401",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/arabic/ARB/401.html",
+   "Course_Title": "Intermediate Arabic II",
+   "pre_value": "ARB 301 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ARB 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/arabic/ARB/501.html",
+   "Course_Title": "Advanced Arabic I",
+   "pre_value": "ARB 401 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ARB 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/arabic/ARB/601.html",
+   "Course_Title": "Advanced Arabic II",
+   "pre_value": "ARB 501 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ASL 301",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/american-sign-language/ASL/301.html",
+   "Course_Title": "Intermediate American Sign Language I",
+   "pre_value": "ASL 201",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ASL 401",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/american-sign-language/ASL/401.html",
+   "Course_Title": "Intermediate American Sign Language II",
+   "pre_value": "ASL 301",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "BLG 599",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/599.html",
+   "Course_Title": "Biology Facts in Pop Media Sci-Fiction",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Engineering students, nor Faculty of Science students (with the exception of Computer Science, Financial Mathematics and Mathematics and its Applications)."
+  },
+  {
+   "name": "BLG 699",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/699.html",
+   "Course_Title": "Social Factors in Drug Development",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "BLG 143, BLG 144",
+   "cus_value": "Not available to Engineering students, nor Faculty of Science students (with the exception of Computer Science, Financial Mathematics and Mathematics and its Applications)"
+  },
+  {
+   "name": "BLG 850",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/850.html",
+   "Course_Title": "What is Cancer?",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "BMS 850",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHN 301",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese/CHN/301.html",
+   "Course_Title": "Intermediate Chinese I",
+   "pre_value": "CHN 201 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "MDN 301",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHN 401",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese/CHN/401.html",
+   "Course_Title": "Intermediate Chinese II",
+   "pre_value": "CHN 301 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHN 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese/CHN/501.html",
+   "Course_Title": "Advanced Chinese I",
+   "pre_value": "CHN 401 placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHN 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese/CHN/601.html",
+   "Course_Title": "Advanced Chinese II",
+   "pre_value": "CHN 501 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHS 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese-studies/CHS/503.html",
+   "Course_Title": "Chinese Literary Traditions",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHS 504",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chinese-studies/CHS/504.html",
+   "Course_Title": "Chinese Cultural Traditions",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHY 583",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/583.html",
+   "Course_Title": "Alternative Energies",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Faculty of Engineering and Architecture students, nor Faculty of Science students (with the exception of Computer Science, Financial Mathematics and Mathematics and its Applications)."
+  },
+  {
+   "name": "CHY 599",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/599.html",
+   "Course_Title": "The Business of Chemistry and Biology",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Faculty of Engineering and Architecture Students (with the exception of Architecture)"
+  },
+  {
+   "name": "CLD 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/early-childhood-studies/CLD/500.html",
+   "Course_Title": "A Caring World for Children",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Early Childhood Studies students"
+  },
+  {
+   "name": "CMN 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/601.html",
+   "Course_Title": "Visual Communication: A Critical Approach",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "CMN 448, FCD 601",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 650",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/650.html",
+   "Course_Title": "Computational Thinking in Our World",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Computer Science and in the Faculty of Engineering and Architectural Science."
+  },
+  {
+   "name": "CRB 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/caribbean-studies/CRB/500.html",
+   "Course_Title": "Families in the Caribbean",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CRB 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/caribbean-studies/CRB/501.html",
+   "Course_Title": "Racism and Caribbean Peoples in Canada",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CRB 502",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/caribbean-studies/CRB/502.html",
+   "Course_Title": "Cultural Traditions in the Caribbean",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CRM 515",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/criminology/CRM/515.html",
+   "Course_Title": "Gendering Justice",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "CRM 205",
+   "cus_value": "None"
+  },
+  {
+   "name": "CRM 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/criminology/CRM/601.html",
+   "Course_Title": "Violence in Society",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "DST 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/disability-studies/DST/500.html",
+   "Course_Title": "A History of Madness",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "DST 504",
+   "cus_value": "None"
+  },
+  {
+   "name": "DST 508",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/disability-studies/DST/508.html",
+   "Course_Title": "Cripping the Arts in Canada",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "DST 509",
+   "cus_value": "None"
+  },
+  {
+   "name": "DST 605",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/disability-studies/DST/605.html",
+   "Course_Title": "Sexuality, Desire and Disability",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "DST 604",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/503.html",
+   "Course_Title": "Economic Development",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 726",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/505.html",
+   "Course_Title": "Economic Issues in Labour Markets",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 605",
+   "cus_value": "Not available to students in Business Management"
+  },
+  {
+   "name": "ECN 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/507.html",
+   "Course_Title": "Ethics and Justice in Economics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 509",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/509.html",
+   "Course_Title": "Development of the Canadian Banking and Financial System",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 506",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/511.html",
+   "Course_Title": "Economy and Environment",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 510",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 512",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/512.html",
+   "Course_Title": "The Economics of Sex",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/603.html",
+   "Course_Title": "Economic Issues in Globalization",
+   "pre_value": "ECN 101 or ECN 104 or ECN 201 or ECN 204 or ECN 210 or Direct Entry",
+   "co_value": "None",
+   "an_value": "ECN 707",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/607.html",
+   "Course_Title": "Issues in the International Economy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 606, ECN 721",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 722",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/722.html",
+   "Course_Title": "Economic Issues in Professional Sports",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ECN 729",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 802",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/802.html",
+   "Course_Title": "The Economies of East Asia",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ENG 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/503.html",
+   "Course_Title": "Science Fiction",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 504",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/504.html",
+   "Course_Title": "The Modern in Literature 1900-1945",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/505.html",
+   "Course_Title": "Creative Writing",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/507.html",
+   "Course_Title": "Science and the Literary Imagination",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 510",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/510.html",
+   "Course_Title": "Gothic Horror",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ENG 580",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/511.html",
+   "Course_Title": "The Art of Writing Life",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ENG 570",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 602",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/602.html",
+   "Course_Title": "Women's Writing",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ENG 621",
+   "cus_value": "Not available to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 604",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/604.html",
+   "Course_Title": "The Contemporary in Literature: Post 1945",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 610",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/610.html",
+   "Course_Title": "The Language of Love, Sex and Gender",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ENG 941",
+   "cus_value": "Not available for credit to students in ACS English Option, BA English, English-Philosophy and English-History double major programs"
+  },
+  {
+   "name": "ENG 620",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/english/ENG/620.html",
+   "Course_Title": "English Caribbean Literatures and Cultures",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FNF 520",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/family-studies/FNF/520.html",
+   "Course_Title": "Contemporary Family Relations",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 301",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/301.html",
+   "Course_Title": "Intermediate French I",
+   "pre_value": "FRE 201 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 401",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/401.html",
+   "Course_Title": "Intermediate French II",
+   "pre_value": "FRE 301 or FRE 302 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/501.html",
+   "Course_Title": "Speaking and Writing French I",
+   "pre_value": "FRE 401 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/503.html",
+   "Course_Title": "Middle Ages to Classicism",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/505.html",
+   "Course_Title": "French Language and Culture",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/507.html",
+   "Course_Title": "English-French Translation I",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 508",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/508.html",
+   "Course_Title": "Intro to 20th C French Literature I",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 509",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/509.html",
+   "Course_Title": "Franco-Canadian Literature I",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 510",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/510.html",
+   "Course_Title": "Effective Writing",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 516",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/516.html",
+   "Course_Title": "Politics and Play in French Poetry",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/601.html",
+   "Course_Title": "Speaking and Writing French II",
+   "pre_value": "FRE 501 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/603.html",
+   "Course_Title": "Enlightenment to La Belle Époque",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 605",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/605.html",
+   "Course_Title": "Francophone Language and Culture",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "FRS 606",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/607.html",
+   "Course_Title": "English-French Translation II",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 608",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/608.html",
+   "Course_Title": "Intro to 20th C French Literature II",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 609",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/609.html",
+   "Course_Title": "Franco-Canadian Literature II",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 610",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/610.html",
+   "Course_Title": "Cultural Context of Writing",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 701",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/701.html",
+   "Course_Title": "French for Today",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 703",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/703.html",
+   "Course_Title": "French Theatre: Classicism to Romanticism",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Performance Acting"
+  },
+  {
+   "name": "FRE 704",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/704.html",
+   "Course_Title": "Intro to Franco-Canadian Culture I",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 706",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/706.html",
+   "Course_Title": "The Life and Times of the French Language",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 707",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/707.html",
+   "Course_Title": "Introduction to French-English Translation",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 709",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/709.html",
+   "Course_Title": "Children's Literature in French",
+   "pre_value": "FRE 601 or placement test (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Early Childhood Studies."
+  },
+  {
+   "name": "FRE 801",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/801.html",
+   "Course_Title": "French and New Media",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 803",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/803.html",
+   "Course_Title": "French Theatre: 20th C and Contemporary",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Performance Acting students"
+  },
+  {
+   "name": "FRE 804",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/804.html",
+   "Course_Title": "Intro to Franco-Canadian Culture II",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 901",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/901.html",
+   "Course_Title": "Francophone Women Writers",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 902",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/902.html",
+   "Course_Title": "Gender and Decadence 1850-1920",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRE 903",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french/FRE/903.html",
+   "Course_Title": "The Francophone Short Story",
+   "pre_value": "FRE 601 or placement test required (www.ryerson.ca/llc)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRS 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french-studies/FRS/501.html",
+   "Course_Title": "Women and the Arts in 19th Century France",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRS 502",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french-studies/FRS/502.html",
+   "Course_Title": "Feminism and French Literature",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRS 602",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french-studies/FRS/602.html",
+   "Course_Title": "French Caribbean Literature and Culture",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FRS 606",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/french-studies/FRS/606.html",
+   "Course_Title": "Franco Lit. Middle East, N. Africa",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "FRE 605",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/505.html",
+   "Course_Title": "Regional Analysis of Canada",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/507.html",
+   "Course_Title": "Explorations of the Urban Environment",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Urban and Regional Planning"
+  },
+  {
+   "name": "GEO 509",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/509.html",
+   "Course_Title": "Food, Place and Identity",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Nutrition and Food."
+  },
+  {
+   "name": "GEO 520",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/520.html",
+   "Course_Title": "Global Political Geography",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 522",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/522.html",
+   "Course_Title": "Geography of the Middle East",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 605",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/605.html",
+   "Course_Title": "The Geography of the Canadian North",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/607.html",
+   "Course_Title": "Cities and the Canadian Economic Landscape",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Urban and Regional Planning students."
+  },
+  {
+   "name": "GEO 609",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/609.html",
+   "Course_Title": "cyberspace@geography.ca",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Computer Science or Business Technology Management students"
+  },
+  {
+   "name": "GEO 620",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/620.html",
+   "Course_Title": "Political Geog of Nations and Localities",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 702",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/702.html",
+   "Course_Title": "Technology and the Contemporary Environment",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "GEO703",
+   "cus_value": "Not available to students in Occupational and Public Health - Occupational Health and Safety option nor Public Health and Safety option."
+  },
+  {
+   "name": "GEO 716",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/716.html",
+   "Course_Title": "Geographies of Health",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Nursing or Occupational and Public Health students"
+  },
+  {
+   "name": "GEO 720",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/720.html",
+   "Course_Title": "The Inner Landscape of Culture",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 793",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/793.html",
+   "Course_Title": "The Geography of Toronto",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Urban and Regional Planning"
+  },
+  {
+   "name": "GEO 802",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/802.html",
+   "Course_Title": "The Geography of Recreation and Leisure",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "GEO 803",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 811",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/811.html",
+   "Course_Title": "Global Environmental Issues",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 820",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/820.html",
+   "Course_Title": "The Outer Landscape of Culture",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/501.html",
+   "Course_Title": "The American Civil War",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/503.html",
+   "Course_Title": "Crime and Punishment in Modern Canada",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 504",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/504.html",
+   "Course_Title": "War to War: World Conflict 1900-45",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 506",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/506.html",
+   "Course_Title": "The Ancient Egyptian World",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 559",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 510",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/510.html",
+   "Course_Title": "The United States after 1945",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/511.html",
+   "Course_Title": "Quebec in Canada: A History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 522",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/522.html",
+   "Course_Title": "The Middle East: 1908 to the Present",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 661",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 523",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/523.html",
+   "Course_Title": "Colonial South Asia, 1757-1947",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 762",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 526",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/526.html",
+   "Course_Title": "Women and Gender in U.S. History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 527",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/527.html",
+   "Course_Title": "Toronto: Wilderness to Metropolis",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 532",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/532.html",
+   "Course_Title": "Elizabethan England",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 533",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/533.html",
+   "Course_Title": "Africa Before 1850",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 540",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/540.html",
+   "Course_Title": "Espionage: A Modern History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 541",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/541.html",
+   "Course_Title": "Unknown Canada: Rebels, Rioters, Strikers",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 551",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/551.html",
+   "Course_Title": "Problems in 20th-Century Western Europe",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 555",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/555.html",
+   "Course_Title": "Late Qing and Republican China, 1839-1949",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 570",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/570.html",
+   "Course_Title": "African American History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 854, HST 721",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 580",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/580.html",
+   "Course_Title": "Indigenous North America to 1763",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HST 380",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 584",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/584.html",
+   "Course_Title": "Mediaeval Europe: 400-1400",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 277",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 585",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/585.html",
+   "Course_Title": "Southeast Asia: War and Peace since 1945",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 587",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/587.html",
+   "Course_Title": "Britain, 1688-1815",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 602",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/602.html",
+   "Course_Title": "Propaganda!",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/603.html",
+   "Course_Title": "The Third Reich",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 604",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/604.html",
+   "Course_Title": "The Uneasy Peace: The Cold War, 1945-90",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 490 and HIS 590 and HST 500",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 610",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/610.html",
+   "Course_Title": "The Rise of the American Empire",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 632",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/632.html",
+   "Course_Title": "England in the 17th Century",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 633",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/633.html",
+   "Course_Title": "Modern Africa",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 556 and HIS 656",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 641",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/641.html",
+   "Course_Title": "Protest in Canada since 1870",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 651",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/651.html",
+   "Course_Title": "Problems in 20th-Century Eastern Europe",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 655",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/655.html",
+   "Course_Title": "People's Republic of China, 1949-Present",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 657",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/657.html",
+   "Course_Title": "Culture/Politics of Difference in the U.S.",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 658",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/658.html",
+   "Course_Title": "Sex in the City",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 680",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/680.html",
+   "Course_Title": "Indigenous North America from 1763",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HST 380",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 701",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/701.html",
+   "Course_Title": "Scientific Technology and Modern Society",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 702",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/702.html",
+   "Course_Title": "The First World War",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 711",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/711.html",
+   "Course_Title": "Canada and the United States",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 712",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/712.html",
+   "Course_Title": "The American City",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 731",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/731.html",
+   "Course_Title": "Renaissance and Reform: Europe 1350-1650",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 678 and HIS 778",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 777",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/777.html",
+   "Course_Title": "Medicine from Antiquity to 1500 CE",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 786",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/786.html",
+   "Course_Title": "Science and Technology in Islamic History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 787",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/787.html",
+   "Course_Title": "Astronomy vs Astrology",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 788",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/788.html",
+   "Course_Title": "Water Use in History",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 789",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/789.html",
+   "Course_Title": "British Society since 1939",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "HIS 783",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 802",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/802.html",
+   "Course_Title": "The Second World War",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 807",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/807.html",
+   "Course_Title": "The Canadian Revolution: Canada 1968-2000",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "HST 811",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/history/HST/811.html",
+   "Course_Title": "The Holocaust",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "INT 555",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/interdisciplinary-studies/INT/555.html",
+   "Course_Title": "Special Topics in Interdisciplinary Studies",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "IRL 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/interior-design/IRL/500.html",
+   "Course_Title": "Modern and Contemporary Art, Design",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Architecture, Fashion, Image Arts, Interior Design or New Media programs"
+  },
+  {
+   "name": "MTH 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/511.html",
+   "Course_Title": "Limitations of Measurement",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Faculty of Engineering and Architecture Students (with the exception of Architecture) nor Faculty of Science Students."
+  },
+  {
+   "name": "MTH 599",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/599.html",
+   "Course_Title": "Foundations of Mathematical Thought",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to Faculty of Engineering and Architecture nor Faculty of Science Students with the exception of Architecture."
+  },
+  {
+   "name": "MUS 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/music/MUS/501.html",
+   "Course_Title": "Music of World Cultures",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MUS 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/music/MUS/503.html",
+   "Course_Title": "Social Issues in Popular Music",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MUS 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/music/MUS/505.html",
+   "Course_Title": "The History of Pop Music",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "RTA 905 (formerly BDC 935)",
+   "cus_value": "None"
+  },
+  {
+   "name": "MUS 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/music/MUS/507.html",
+   "Course_Title": "Architecture of Music II",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MUS 520",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/music/MUS/520.html",
+   "Course_Title": "Women in Popular Music",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PCS 581",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/physics/PCS/581.html",
+   "Course_Title": "Advanced Topics in Astronomy",
+   "pre_value": "PCS 181 or PCS 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in the Faculty of Engineering and Architectural Science."
+  },
+  {
+   "name": "PHL 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/500.html",
+   "Course_Title": "Philosophy of the Natural Environment",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/501.html",
+   "Course_Title": "Oppression and the Critique of Power",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/503.html",
+   "Course_Title": "Ancient and Modern Ethics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 504",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/504.html",
+   "Course_Title": "Philosophy of Art",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 505",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/505.html",
+   "Course_Title": "Hegel and Marx",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 509",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/509.html",
+   "Course_Title": "Bioethics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "PHL 302",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 520",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/520.html",
+   "Course_Title": "Social and Political Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 521",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/521.html",
+   "Course_Title": "Personal Identity East and West",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 522",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/522.html",
+   "Course_Title": "Philosophy and Death",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 544",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/544.html",
+   "Course_Title": "Feminist Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 550",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/550.html",
+   "Course_Title": "Knowledge, Truth and Belief",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 551",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/551.html",
+   "Course_Title": "Metaphysics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 552",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/552.html",
+   "Course_Title": "Philosophy of Science",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 597",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/597.html",
+   "Course_Title": "Introduction to Formal Logic",
+   "pre_value": "SSH 105 or PHL 214",
+   "co_value": "None",
+   "an_value": "MTH 110",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/603.html",
+   "Course_Title": "Modern and Contemporary Ethics",
+   "pre_value": "PHL 306 or PHL 406 or PHL 503 or PHL 612",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 605",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/605.html",
+   "Course_Title": "Existentialism",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 606",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/606.html",
+   "Course_Title": "Philosophy of Love and Sex",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 611",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/611.html",
+   "Course_Title": "Philosophy of Mind",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 612",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/612.html",
+   "Course_Title": "Philosophy of Law",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 614",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/614.html",
+   "Course_Title": "Philosophy of Human Rights",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 622",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/622.html",
+   "Course_Title": "Classical Arabic Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 639",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/639.html",
+   "Course_Title": "Medieval Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 648",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/648.html",
+   "Course_Title": "Philosophy and Literature",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 661",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/661.html",
+   "Course_Title": "Marx, Nietzsche and Freud",
+   "pre_value": "one PHL course",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 708",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/708.html",
+   "Course_Title": "Introduction to Modern Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 709",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/709.html",
+   "Course_Title": "Religion, Science and Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 710",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/710.html",
+   "Course_Title": "Philosophy and Film",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 808",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/808.html",
+   "Course_Title": "Language and Philosophy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 922",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/922.html",
+   "Course_Title": "Religious Belief, Diversity, and Truth",
+   "pre_value": "PHL 110 or PHL 709",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 923",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/923.html",
+   "Course_Title": "Philosophy of Religion II",
+   "pre_value": "PHL 110 or PHL 709",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PHL 924",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/philosophy/PHL/924.html",
+   "Course_Title": "Critical Thinking II",
+   "pre_value": "PHL 214 or SSH 105 or ACS 105",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/501.html",
+   "Course_Title": "Women, Power and Politics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "POG 442",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 507",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/507.html",
+   "Course_Title": "Power, Change and Technology",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 510",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/510.html",
+   "Course_Title": "The Politics of Sexual Diversity",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "SWP 910",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/511.html",
+   "Course_Title": "Well-being and Opportunity in Canada",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "Not available to students in Social Work"
+  },
+  {
+   "name": "POL 540",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/540.html",
+   "Course_Title": "Issues in Third World Politics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 588",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/588.html",
+   "Course_Title": "Neoliberalism and its Alternatives",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/601.html",
+   "Course_Title": "Social Movements and Politics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/607.html",
+   "Course_Title": "Politics of Technology and Globalization",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 609",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/609.html",
+   "Course_Title": "Global Justice",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 613",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/613.html",
+   "Course_Title": "International Law for Human Protection",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 620",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/620.html",
+   "Course_Title": "Sports and Politics",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 688",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/688.html",
+   "Course_Title": "Colonialism and Imperialism",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "POL 720",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/politics-and-public-administration/POL/720.html",
+   "Course_Title": "Canada in the Continent"
+  }
+ ]
+}
+}

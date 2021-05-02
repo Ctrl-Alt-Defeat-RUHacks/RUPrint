@@ -1,0 +1,1012 @@
+{
+ "Courses": [
+  {
+   "name": "CPS 40A/B",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/40AB.html",
+   "Title": "Thesis",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/501.html",
+   "Title": "Bioinformatics",
+   "pre_value": "(CPS 118 or CPS 125 or CPS 109) and BLG 143",
+   "co_value": "None",
+   "an_value": "BME 501",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 511",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/511.html",
+   "Title": "Computer Graphics",
+   "pre_value": "CPS 305 and MTH 108",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 530",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/530.html",
+   "Title": "Web Systems Development",
+   "pre_value": "CPS 209",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 606",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/606.html",
+   "Title": "Advanced Computer Organization",
+   "pre_value": "CPS 310",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/607.html",
+   "Title": "Autonomous Mobile Robotics",
+   "pre_value": "CPS 310",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 610",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/610.html",
+   "Title": "Database Systems II",
+   "pre_value": "CPS 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 613",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/613.html",
+   "Title": "Human-Computer Interaction",
+   "pre_value": "CPS 209 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 615",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/615.html",
+   "Title": "Theory of Computation",
+   "pre_value": "CPS 305 and CPS 420",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 621",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/621.html",
+   "Title": "Introduction to Multimedia Systems",
+   "pre_value": "(CPS 109 and CPS 393) or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 630",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/630.html",
+   "Title": "Web Applications",
+   "pre_value": "CPS 510 and CPS 530",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 643",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/643.html",
+   "Title": "Virtual Reality",
+   "pre_value": "CPS 511",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 707",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/707.html",
+   "Title": "Software Verification and Validation",
+   "pre_value": "(CPS 406 and CPS 420) or (CPS 406 and MTH 210)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 710",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/710.html",
+   "Title": "Compilers and Interpreters",
+   "pre_value": "(CPS 305 or COE 428) and (CPS 420 or MTH 314)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 713",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/713.html",
+   "Title": "Applied Cryptography",
+   "pre_value": "CPS 209 and CPS 633",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 714",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/714.html",
+   "Title": "Software Project Management",
+   "pre_value": "CPS 406 or (COE 691 and COE 692)",
+   "co_value": "None",
+   "an_value": "ITM 750",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 716",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/716.html",
+   "Title": "Computer Networks II",
+   "pre_value": "CPS 706",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 730",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/730.html",
+   "Title": "Web Technology and Performance Measurement",
+   "pre_value": "CPS 393 or CPS 590",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 731",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/731.html",
+   "Title": "Software Engineering I",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 752",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/752.html",
+   "Title": "Parallel Computer Systems",
+   "pre_value": "CPS 310",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 801",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/801.html",
+   "Title": "Operating Systems II",
+   "pre_value": "CPS 305 and CPS 590",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 803",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/803.html",
+   "Title": "Machine Learning",
+   "pre_value": "MTH 108 and MTH 207 and CPS 305",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 811",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/811.html",
+   "Title": "Distributed Systems and Networks",
+   "pre_value": "CPS 706",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 813",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/813.html",
+   "Title": "Human Robot Interaction",
+   "pre_value": "CPS 607",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 822",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/822.html",
+   "Title": "Artificial Intelligence II",
+   "pre_value": "CPS 721",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 824",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/824.html",
+   "Title": "Reinforcement Learning",
+   "pre_value": "CPS 305 and CPS 420",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 831",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/831.html",
+   "Title": "Software Engineering II",
+   "pre_value": "CPS 731",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 832",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/832.html",
+   "Title": "Mainframe Systems",
+   "pre_value": "CPS 310 and CPS 590",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 840",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/840.html",
+   "Title": "Selected Topics in Computer Science",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 841",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/841.html",
+   "Title": "Advanced Topics in Computer Science",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 842",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/842.html",
+   "Title": "Information Retrieval and Web Search",
+   "pre_value": "(CPS 311 and CPS 305) or (CPS 209 and CPS 305)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 843",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/843.html",
+   "Title": "Introduction to Computer Vision",
+   "pre_value": "(CPS 305 and (CPS 420 or MTH 210) and MTH 108 and MTH 207) or ELE 632",
+   "co_value": "None",
+   "an_value": "MTH 820",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 844",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/844.html",
+   "Title": "Data Mining",
+   "pre_value": "CPS 305",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 845",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/845.html",
+   "Title": "Extreme Programming and Agile Processes",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 847",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/847.html",
+   "Title": "Software Tools for Startups",
+   "pre_value": "CPS 209",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 853",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/853.html",
+   "Title": "Creating Big Data Systems",
+   "pre_value": "CPS 406 and CPS 420 and CPS 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 865",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/865.html",
+   "Title": "Model-Driven Software Engineering",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 870",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/870.html",
+   "Title": "Natural Language Processing",
+   "pre_value": "CPS 420, MTH 380 or MTH 304",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ACC 100",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/accounting/ACC/100.html",
+   "Title": "Introductory Financial Accounting",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ACC 110",
+   "cus_value": "None"
+  },
+  {
+   "name": "ACC 333",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/accounting/ACC/333.html",
+   "Title": "Core Concepts of Accounting",
+   "pre_value": "ACC 100 and ACC 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ACC 406",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/accounting/ACC/406.html",
+   "Title": "Introductory Management Accounting",
+   "pre_value": "ACC 100 or ACC 110 or AFA 100 or Business Management Special student",
+   "co_value": "None",
+   "an_value": "ACC 410",
+   "cus_value": "None"
+  },
+  {
+   "name": "ACC 414",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/accounting/ACC/414.html",
+   "Title": "Intermediate Accounting I",
+   "pre_value": "ACC 410 or ACC 333 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "BLG 143",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/143.html",
+   "Title": "Biology I",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "BLG 151",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/151.html",
+   "Title": "Microbiology I",
+   "pre_value": "BLG 143 and BLG 144",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "BLG 311",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/311.html",
+   "Title": "Cell Biology",
+   "pre_value": "BLG 143 and BLG 144",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "BLG 400",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/biology/BLG/400.html",
+   "Title": "Genetics",
+   "pre_value": "BLG 143 and BLG 144",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHY 103",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/103.html",
+   "Title": "General Chemistry I",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "CHY 102",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHY 213",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/213.html",
+   "Title": "Analytical Chemistry I",
+   "pre_value": "CHY 113",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHY 223",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/223.html",
+   "Title": "Analytical Chemistry II",
+   "pre_value": "CHY 213",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CHY 381",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/chemistry/CHY/381.html",
+   "Title": "Physical Chemistry I",
+   "pre_value": "CHY 103, CHY 113 and MTH 231",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 288",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/288.html",
+   "Title": "Communication in Social Media",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 305",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/305.html",
+   "Title": "Strategic Public Relations in ProCom",
+   "pre_value": "CMN 100 or CMN 114 or CMN 124 or CMN 200 or CMN 201 or CMN 207 or CMN 279 or CMN 300 or CMN 373 or THM 200 or Direct Entry",
+   "co_value": "None",
+   "an_value": "RTA 917/BDC 917",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 306",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/306.html",
+   "Title": "Risk and Crisis Communication",
+   "pre_value": "CMN 100 or CMN 114 or CMN 124 or CMN 200 or CMN 201 or CMN 207 or CMN 279 or CMN 300 or CMN 373 or THM 200 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 314",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/314.html",
+   "Title": "Professional Presentations",
+   "pre_value": "CMN 100 or CMN 124 or CMN 200 or CMN 201 or CMN 207 or CMN 279 or CMN 300 or CMN 373 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 316",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/316.html",
+   "Title": "Questioning Numbers",
+   "pre_value": "CMN 100 or CMN 114 or CMN 124 or CMN 200 or CMN 201 or CMN 207 or CMN 279 or CMN 300 or CMN 373 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 317",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/317.html",
+   "Title": "Information, Technology, and Control",
+   "pre_value": "CMN 100 or CMN 114 or CMN 124 or CMN 200 or CMN 201 or CMN 207 or CMN 279 or CMN 300 or CMN 373 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CMN 450",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/communication/CMN/450.html",
+   "Title": "Participatory Media and Communication",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 301",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/301.html",
+   "Title": "Intermediate Macroeconomics I",
+   "pre_value": "(ECN 101 or ECN 104) and (ECN 201 or ECN 204) or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 504",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/504.html",
+   "Title": "Intermediate Microeconomics I",
+   "pre_value": "(ECN 101 or ECN 104) and (ECN 201 or ECN 204) or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ECN 808",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/economics/ECN/808.html",
+   "Title": "Economic Growth and Technological Change",
+   "pre_value": "ECN 301 and ECN 504",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "EES 512",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/electrical-engineering/EES/512.html",
+   "Title": "Electric Circuits",
+   "pre_value": "MTH 140 and MTH 141",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ENT 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/entrepreneurship-and-strategy/ENT/500.html",
+   "Title": "New Venture Startup",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "ENT 726 and RTA 913 (formerly BDC 913)",
+   "cus_value": "None"
+  },
+  {
+   "name": "ENT 526",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/entrepreneurship-and-strategy/ENT/526.html",
+   "Title": "Entrepreneurial Behaviour and Strategy",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "FIN 300",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/finance/FIN/300.html",
+   "Title": "Managerial Finance I",
+   "pre_value": "ACC 100 or ACC 110 or AFA 100 or Direct Entry",
+   "co_value": "None",
+   "an_value": "AFF 210, ECN 320, HTA 602",
+   "cus_value": "None"
+  },
+  {
+   "name": "FIN 401",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/finance/FIN/401.html",
+   "Title": "Managerial Finance II",
+   "pre_value": "FIN 300 or AFF 210 or ECN 320 or HTA 602",
+   "co_value": "None",
+   "an_value": "AFF 310",
+   "cus_value": "None"
+  },
+  {
+   "name": "FIN 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/finance/FIN/501.html",
+   "Title": "Investment Analysis",
+   "pre_value": "FIN 401 or AFF 310",
+   "co_value": "None",
+   "an_value": "AFF 501",
+   "cus_value": "None"
+  },
+  {
+   "name": "GEO 542",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/geography/GEO/542.html",
+   "Title": "Introduction to Remote Sensing",
+   "pre_value": "GEO 123 or GEO 141",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "GMS 200",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/global-management-studies/GMS/200.html",
+   "Title": "Introduction to Global Management",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "ITM 350",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/information-technology-management/ITM/350.html",
+   "Title": "Concepts of e-Business",
+   "pre_value": "(ITM 100 or ITM 102)",
+   "co_value": "None",
+   "an_value": "ITM 550",
+   "cus_value": "Not available to Business Technology Management Students"
+  },
+  {
+   "name": "LAW 122",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/law/LAW/122.html",
+   "Title": "Business Law",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "LAW 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/law/LAW/603.html",
+   "Title": "Advanced Business Law",
+   "pre_value": "LAW 122",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "LAW 723",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/law/LAW/723.html",
+   "Title": "Issues in Information Technology Law",
+   "pre_value": "LAW 122",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MHR 405",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/human-resources/MHR/405.html",
+   "Title": "Organizational Behaviour",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MHR 523",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/human-resources/MHR/523.html",
+   "Title": "Human Resources Management",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "CRI 700",
+   "cus_value": "None"
+  },
+  {
+   "name": "MHR 640",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/human-resources/MHR/640.html",
+   "Title": "Leadership",
+   "pre_value": "MHR 405 or HTH 601",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MKT 100",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/marketing/MKT/100.html",
+   "Title": "Principles of Marketing",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "INP 912",
+   "cus_value": "None"
+  },
+  {
+   "name": "PCS 224",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/physics/PCS/224.html",
+   "Title": "Solid State Physics",
+   "pre_value": "PCS 110 or PCS 125 or PCS 130",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "PCS 510",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/physics/PCS/510.html",
+   "Title": "Fundamentals of Astrophysics",
+   "pre_value": "PCS 110 or PCS 130 or (PCS 125 and PCS 211)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "RMG 910",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/retail-management/RMG/910.html",
+   "Title": "Omni-Channel Retailing",
+   "pre_value": "ITM 350 or RMG 200 or ITM 550",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 304",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/304.html",
+   "Title": "Probability and Statistics I",
+   "pre_value": "MTH 310 or MTH 240 or MTH 231",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 310",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/310.html",
+   "Title": "Calculus and Computational Methods II",
+   "pre_value": "MTH 207",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 330",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/330.html",
+   "Title": "Calculus and Geometry",
+   "pre_value": "MTH 231 or MTH 310 or MTH 240 or ECN 230",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 380",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/380.html",
+   "Title": "Probability and Statistics I",
+   "pre_value": "None",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 404",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/404.html",
+   "Title": "Probability and Statistics II",
+   "pre_value": "MTH 304 or MTH 380",
+   "co_value": "None",
+   "an_value": "MTH 480",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 430",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/430.html",
+   "Title": "Dynamic Systems Differential Equations",
+   "pre_value": "(MTH 108 and (MTH 231 OR MTH 310)) or ECN 230",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 500",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/500.html",
+   "Title": "Introduction to Stochastic Processes",
+   "pre_value": "MTH 404 or MTH 480 or ECN 702",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 501",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/501.html",
+   "Title": "Numerical Analysis I",
+   "pre_value": "ECN 230 or (MTH 231 and MTH 108) or (MTH 310 and MTH 108)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 503",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/503.html",
+   "Title": "Intro Linear Programming and Applications",
+   "pre_value": "(MTH 108 or MTH 141) and (MTH 231 or MTH 240 or MTH 310)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 540",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/540.html",
+   "Title": "Geometry",
+   "pre_value": "MTH 108 or MTH 141",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 601",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/601.html",
+   "Title": "Numerical Analysis II",
+   "pre_value": "MTH 501 or MTH 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 603",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/603.html",
+   "Title": "Non-Linear Programming and Applications",
+   "pre_value": "(MTH 108 or MTH 141) and (MTH 231 or MTH 240 or MTH 310)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 607",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/607.html",
+   "Title": "Graph Theory",
+   "pre_value": "MTH 110",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 609",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/609.html",
+   "Title": "Number Theory",
+   "pre_value": "(MTH 108 or MTH 141) and (MTH 210 or CPS 420)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 640",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/640.html",
+   "Title": "Complex Analysis",
+   "pre_value": "MTH 312 or MTH 330 or MTH 425",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 710",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/710.html",
+   "Title": "Fourier Analysis",
+   "pre_value": "(MTH 108 or MTH 141) and (MTH 231 or MTH 310 or MTH 240)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 712",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/712.html",
+   "Title": "Partial Differential Equations",
+   "pre_value": "(MTH 309 or MTH 430) and (MTH 330)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 714",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/714.html",
+   "Title": "Logic and Computability",
+   "pre_value": "MTH 110 or MTH 314",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 718",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/718.html",
+   "Title": "Design and Codes",
+   "pre_value": "MTH 110 or MTH 314",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 719",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/719.html",
+   "Title": "Applied Linear Algebra",
+   "pre_value": "(MTH 108 or MTH 141) and (CPS 118 or CPS 109 or CPS 125)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 814",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/814.html",
+   "Title": "Computational Complexity",
+   "pre_value": "MTH 110 or MTH 314",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 816",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/816.html",
+   "Title": "Cryptography",
+   "pre_value": "MTH 110 or MTH 314",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "MTH 817",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/mathematics/MTH/817.html",
+   "Title": "Combinatorics",
+   "pre_value": "(MTH 108 or MTH 141) and (MTH 231 or MTH 207 or MTH 140)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 610",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/610.html",
+   "Title": "Database Systems II",
+   "pre_value": "CPS 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 613",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/613.html",
+   "Title": "Human-Computer Interaction",
+   "pre_value": "CPS 209 or Direct Entry",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 707",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/707.html",
+   "Title": "Software Verification and Validation",
+   "pre_value": "(CPS 406 and CPS 420) or (CPS 406 and MTH 210)",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 714",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/714.html",
+   "Title": "Software Project Management",
+   "pre_value": "CPS 406 or (COE 691 and COE 692)",
+   "co_value": "None",
+   "an_value": "ITM 750",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 731",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/731.html",
+   "Title": "Software Engineering I",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 831",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/831.html",
+   "Title": "Software Engineering II",
+   "pre_value": "CPS 731",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 845",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/845.html",
+   "Title": "Extreme Programming and Agile Processes",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 847",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/847.html",
+   "Title": "Software Tools for Startups",
+   "pre_value": "CPS 209",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 853",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/853.html",
+   "Title": "Creating Big Data Systems",
+   "pre_value": "CPS 406 and CPS 420 and CPS 510",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  },
+  {
+   "name": "CPS 865",
+   "url": "https://www.ryerson.ca/content/ryerson/calendar/2020-2021/courses/computer-science/CPS/865.html",
+   "Title": "Model-Driven Software Engineering",
+   "pre_value": "CPS 406",
+   "co_value": "None",
+   "an_value": "None",
+   "cus_value": "None"
+  }
+ ]
+}
